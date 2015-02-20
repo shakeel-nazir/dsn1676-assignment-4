@@ -10,9 +10,43 @@ html {
 -ms-text-size-adjust:100%;
 -webkit-text-size-adjust:100%;
 text-size-adjust:100%;
-  }
+
+}
   
 
 *, *:before, *:after {
   box-sizing: inherit;
 }
+
+
+h1 { 
+    color: #ff7373;
+    font-size: 3rem;
+    background-color: #f1f3f4;
+    text-align: center;
+
+}
+
+
+dt { 
+   font-size: 1.5rem;
+    font-family: sans-serif;
+    text-align: center;
+    color: #454547;
+}
+
+dl { 
+    text-align: center;
+    font-size: 1rem;
+    color: #454547;
+}
+
+
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #c0ebe7;
+}
+    
+
