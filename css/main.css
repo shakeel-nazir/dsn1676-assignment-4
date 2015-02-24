@@ -11,12 +11,10 @@ html {
     -webkit-text-size-adjust:100%;
     text-size-adjust:100%;
 }
-  
 
 *, *:before, *:after {
     box-sizing: inherit;
 }
-
 
 h1 { 
     color: #ff7373;
@@ -24,7 +22,6 @@ h1 {
     background-color: #f1f3f4;
     text-align: center;
 }
-
 
 dt { 
     font-size: 1.5rem;
